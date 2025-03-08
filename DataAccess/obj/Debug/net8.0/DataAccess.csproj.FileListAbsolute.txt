@@ -1,0 +1,17 @@
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/Core.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/Entites.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/Entites.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/bin/Debug/net8.0/Core.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll

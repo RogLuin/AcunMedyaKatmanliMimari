@@ -1,0 +1,15 @@
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/bin/Debug/net8.0/Entites.deps.json
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/bin/Debug/net8.0/Entites.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/bin/Debug/net8.0/Entites.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/bin/Debug/net8.0/Core.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/bin/Debug/net8.0/Core.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.csproj.AssemblyReference.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.AssemblyInfoInputs.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.AssemblyInfo.cs
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.csproj.CoreCompileInputs.cache
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.csproj.Up2Date
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/refint/Entites.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.pdb
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/ref/Entites.dll

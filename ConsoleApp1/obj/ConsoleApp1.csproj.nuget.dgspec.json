@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/Business.csproj",
+        "packagesPath": "/Users/gorkemdikbakan/.nuget/packages/",
+        "outputPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gorkemdikbakan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj"
+              },
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/gorkemdikbakan/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/ConsoleApp1.csproj",
+        "packagesPath": "/Users/gorkemdikbakan/.nuget/packages/",
+        "outputPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gorkemdikbakan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/Business.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Business/Business.csproj"
+              },
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj"
+              },
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj"
+              },
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/gorkemdikbakan/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj",
+        "packagesPath": "/Users/gorkemdikbakan/.nuget/packages/",
+        "outputPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gorkemdikbakan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/gorkemdikbakan/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/gorkemdikbakan/.nuget/packages/",
+        "outputPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gorkemdikbakan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/gorkemdikbakan/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj",
+        "projectName": "Entites",
+        "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/Entites.csproj",
+        "packagesPath": "/Users/gorkemdikbakan/.nuget/packages/",
+        "outputPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gorkemdikbakan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj": {
+                "projectPath": "/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/gorkemdikbakan/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
