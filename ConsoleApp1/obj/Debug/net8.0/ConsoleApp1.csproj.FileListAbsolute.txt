@@ -22,3 +22,4 @@
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json

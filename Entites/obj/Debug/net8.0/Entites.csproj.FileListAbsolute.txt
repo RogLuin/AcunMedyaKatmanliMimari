@@ -13,3 +13,4 @@
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/refint/Entites.dll
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.pdb
 /Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/ref/Entites.dll
+/Users/gorkemdikbakan/RiderProjects/AcunMedyaKatmanliMimari/Entites/obj/Debug/net8.0/Entites.sourcelink.json
